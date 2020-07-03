@@ -1,0 +1,10 @@
+LOAD CSV WITH HEADERS FROM 'file:///wiki_list_random.csv' AS line
+	WITH trim(line.Title) AS title, trim(line.Type) as type,trim(line.Url) as url
+		CALL apoc.create.node([type], {title:title, url:url}) YIELD node RETURN node;
+        
+
+LOAD CSV WITH HEADERS FROM 'file:///wiki_list_random.csv' AS line
+	WITH trim(line.Type) as type, trim(line.Categories) as categories, line.Title AS title
+		UNWIND [c IN split(categories, ",")|trim(c)] AS category
+			MATCH (m{title:category}), (n{title:title})
+				CREATE (n)-[:Belong]->(m) RETURN *;

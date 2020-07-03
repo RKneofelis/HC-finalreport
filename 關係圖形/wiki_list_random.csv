@@ -1,0 +1,92 @@
+Title,Type,Categories,Url
+後高教聯盟,League,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%BE%8C%E9%AB%98%E6%A0%A1%E6%95%99%E8%82%B2%E8%81%AF%E7%9B%9F 
+學業型,Feature,***,
+交際型,Feature,***,
+一般型,Feature,***,
+心理學暨 AI 思覺,SkillArea,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%BF%83%E7%90%86%E5%AD%B8%E6%9A%A8AI%E6%80%9D%E8%A6%BA 
+工程,SkillArea,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%B7%A5%E7%A8%8B 
+資源,SkillArea,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E8%B3%87%E6%BA%90 
+霸權聯立型,Style,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E9%9C%B8%E6%AC%8A%E8%81%AF%E7%AB%8B%E5%9E%8B:%E9%9C%B8%E6%AC%8A%E8%81%AF%E7%AB%8B%E5%9E%8B 
+特務機關型,Style,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E7%89%B9%E5%8B%99%E6%A9%9F%E9%97%9C%E5%9E%8B:%E7%89%B9%E5%8B%99%E6%A9%9F%E9%97%9C%E5%9E%8B 
+跨國營運型,Style,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E8%B7%A8%E5%9C%8B%E7%87%9F%E9%81%8B%E5%9E%8B:%E8%B7%A8%E5%9C%8B%E7%87%9F%E9%81%8B%E5%9E%8B 
+人民集資型,Style,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E4%BA%BA%E6%B0%91%E9%9B%86%E8%B3%87%E5%9E%8B:%E4%BA%BA%E6%B0%91%E9%9B%86%E8%B3%87%E5%9E%8B 
+Male,Gender,***,
+Female,Gender,***,
+研究中心,ResearchCenterGroup,***,https://higheducationtime.fandom.com/zh-tw/wiki/%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83 
+心理研究中心,ResearchCenter,心理學暨 AI 思覺,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%BF%83%E7%90%86%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83 
+AI 科學研究中心,ResearchCenter,心理學暨 AI 思覺,https://higheducationtime.fandom.com/zh-tw/wiki/AI%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83 
+資源研究中心,ResearchCenter,資源,https://higheducationtime.fandom.com/zh-tw/wiki/%E8%B3%87%E6%BA%90%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83 
+工程研究中心,ResearchCenter,工程,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83 
+北聯約教育大學NUEU,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%8C%97%E8%81%AF%E7%B4%84%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8NUEU 
+南聯約教育大學SUEU,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%8D%97%E8%81%AF%E7%B4%84%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8SUEU 
+泛東洋大學EOU,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E6%B3%9B%E6%9D%B1%E6%B4%8B%E5%A4%A7%E5%AD%B8EOU 
+焦土理工學院SEI,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E7%84%A6%E5%9C%9F%E7%90%86%E5%B7%A5%E5%AD%B8%E9%99%A2SEI 
+皇家帝國大學EKU,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E7%9A%87%E5%AE%B6%E5%B8%9D%E5%9C%8B%E5%A4%A7%E5%AD%B8EKU 
+共和民主大學RDU,College,後高教聯盟,https://higheducationtime.fandom.com/zh-tw/wiki/%E5%85%B1%E5%92%8C%E6%B0%91%E4%B8%BB%E5%A4%A7%E5%AD%B8RDU 
+α-one,AI,焦土理工學院SEI,
+α-two,AI,焦土理工學院SEI,
+α-NAT,AI,焦土理工學院SEI,
+β-zone,AI,共和民主大學RDU,
+γ-alpha,AI,北聯約教育大學NUEU,
+γ-beta,AI,北聯約教育大學NUEU,
+δ-alpha,AI,南聯約教育大學SUEU,
+δ-beta,AI,南聯約教育大學SUEU,
+ε-world.ocean,AI,泛東洋大學EOU,
+ζ-E,AI,皇家帝國大學EKU,
+ζ-K,AI,皇家帝國大學EKU,
+ζ-U,AI,皇家帝國大學EKU,
+王凱婷,Student,"一般型,工程,共和民主大學RDU,Female",
+蔡政芸,Student,"一般型,心理學暨 AI 思覺,北聯約教育大學NUEU,Female",
+周台成,Student,"交際型,心理學暨 AI 思覺,焦土理工學院SEI,Male",
+黃家新,Student,"交際型,資源,北聯約教育大學NUEU,Male",
+林瓊帆,Student,"學業型,心理學暨 AI 思覺,共和民主大學RDU,Male",
+鄭幸齊,Student,"一般型,資源,北聯約教育大學NUEU,Male",
+黃雅航,Student,"一般型,資源,南聯約教育大學SUEU,Male",
+楊文傑,Student,"學業型,工程,南聯約教育大學SUEU,Male",
+陳韋珍,Student,"學業型,工程,皇家帝國大學EKU,Female",
+李依憲,Student,"一般型,工程,共和民主大學RDU,Female",
+唐文欣,Student,"一般型,資源,北聯約教育大學NUEU,Female",
+陳皇梅,Student,"學業型,資源,南聯約教育大學SUEU,Male",
+葉容芝,Student,"學業型,心理學暨 AI 思覺,北聯約教育大學NUEU,Male",
+鄧怡孜,Student,"交際型,資源,南聯約教育大學SUEU,Female",
+陳紹祥,Student,"一般型,工程,南聯約教育大學SUEU,Female",
+林倍中,Student,"一般型,工程,焦土理工學院SEI,Male",
+鄭伯嘉,Student,"學業型,工程,泛東洋大學EOU,Female",
+劉雅州,Student,"學業型,資源,南聯約教育大學SUEU,Male",
+張奕梅,Student,"交際型,心理學暨 AI 思覺,南聯約教育大學SUEU,Male",
+林佳宏,Student,"學業型,資源,焦土理工學院SEI,Male",
+陳懿水,Student,"一般型,資源,皇家帝國大學EKU,Female",
+李志偉,Student,"一般型,工程,北聯約教育大學NUEU,Male",
+王舜揚,Student,"一般型,工程,焦土理工學院SEI,Female",
+羅哲琇,Student,"一般型,資源,焦土理工學院SEI,Female",
+黃思穎,Student,"交際型,資源,北聯約教育大學NUEU,Male",
+林致陽,Student,"一般型,資源,泛東洋大學EOU,Female",
+陳俞生,Student,"一般型,心理學暨 AI 思覺,共和民主大學RDU,Male",
+張進揚,Student,"學業型,工程,共和民主大學RDU,Male",
+蔡雅文,Student,"交際型,心理學暨 AI 思覺,焦土理工學院SEI,Male",
+林淑謙,Student,"一般型,資源,南聯約教育大學SUEU,Female",
+陳明紫,Student,"學業型,資源,北聯約教育大學NUEU,Female",
+鐘漢薇,Student,"交際型,資源,泛東洋大學EOU,Female",
+林筱婷,Student,"交際型,心理學暨 AI 思覺,泛東洋大學EOU,Female",
+林宜雯,Student,"學業型,資源,北聯約教育大學NUEU,Male",
+周湖行,Student,"學業型,心理學暨 AI 思覺,焦土理工學院SEI,Male",
+陳智宜,Student,"學業型,工程,北聯約教育大學NUEU,Male",
+黃淑玲,Student,"一般型,資源,泛東洋大學EOU,Male",
+蔡秉瑋,Student,"一般型,工程,北聯約教育大學NUEU,Male",
+林宜潔,Student,"學業型,工程,共和民主大學RDU,Female",
+林淑萍,Student,"學業型,工程,南聯約教育大學SUEU,Female",
+柯怡芬,Student,"交際型,資源,皇家帝國大學EKU,Male",
+李彥博,Student,"學業型,資源,泛東洋大學EOU,Male",
+葉孟儒,Student,"學業型,心理學暨 AI 思覺,皇家帝國大學EKU,Female",
+李侑妍,Student,"交際型,工程,南聯約教育大學SUEU,Female",
+王家豪,Student,"一般型,資源,共和民主大學RDU,Male",
+謝苡清,Student,"學業型,心理學暨 AI 思覺,焦土理工學院SEI,Male",
+吳玉鳳,Student,"交際型,工程,共和民主大學RDU,Male",
+劉淑惠,Student,"交際型,工程,焦土理工學院SEI,Male",
+黃翠輝,Student,"學業型,心理學暨 AI 思覺,南聯約教育大學SUEU,Female",
+陳子芸,Student,"交際型,心理學暨 AI 思覺,共和民主大學RDU,Female",
+黃靜宜,Student,"學業型,資源,北聯約教育大學NUEU,Male",
+陳盈華,Student,"一般型,資源,泛東洋大學EOU,Male",
+丁偉淑,Student,"交際型,工程,南聯約教育大學SUEU,Male",
+楊祖蘭,Student,"交際型,資源,南聯約教育大學SUEU,Male",
+王佩君,Student,"學業型,心理學暨 AI 思覺,泛東洋大學EOU,Male",
