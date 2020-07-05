@@ -1,0 +1,154 @@
+<ul class="graph-diagram-markup" data-internal-scale="0.82" data-external-scale="1">
+  <li class="node" data-node-id="0" data-x="390.9194927215576" data-y="148.41293239593506">
+    <span class="caption">HIT unite-nthu</span>
+  </li>
+  <li class="node" data-node-id="1" data-x="-286.5788879394531" data-y="148.41293239593506">
+    <span class="caption">HIT unite-nctu</span>
+  </li>
+  <li class="node" data-node-id="2" data-x="-2332.009521484375" data-y="-532.1164245605469">
+    <span class="caption">NCTU</span>
+  </li>
+  <li class="node" data-node-id="3" data-x="2385.5263061523438" data-y="-660.4235229492188">
+    <span class="caption">NTHU</span>
+  </li>
+  <li class="node" data-node-id="4" data-x="-1554.7058983779527" data-y="-287.89268493652344">
+    <span class="caption">Student-nctu</span>
+  </li>
+  <li class="node" data-node-id="5" data-x="1361.0908203125" data-y="-287.89268493652344">
+    <span class="caption">Student-nthu</span>
+  </li>
+  <li class="node" data-node-id="6" data-x="848.2626953125" data-y="843.9349403381348">
+    <span class="caption">make NTHU great</span>
+  </li>
+  <li class="node" data-node-id="7" data-x="-695.0196659739424" data-y="843.9349403381348">
+    <span class="caption">NCTU best</span>
+  </li>
+  <li class="node" data-node-id="8" data-x="-2003.284423828125" data-y="292.8677291870117">
+    <span class="caption">Teacher-nctu</span>
+  </li>
+  <li class="node" data-node-id="9" data-x="1841.9486694335938" data-y="575.1074256896973">
+    <span class="caption">Teacher-nthu</span>
+  </li>
+  <li class="node" data-node-id="10" data-x="-512.4832458496094" data-y="-1342.4860229492188">
+    <span class="caption">NCTUSU</span>
+  </li>
+  <li class="node" data-node-id="11" data-x="978.156982421875" data-y="-1375.1282348632812">
+    <span class="caption">NTHUSA</span>
+  </li>
+  <li class="node" data-node-id="12" data-x="-1924.39404296875" data-y="-1558.1196899414062">
+    <span class="caption">NYMU</span>
+  </li>
+  <li class="node" data-node-id="13" data-x="142.33826446533203" data-y="-2341.3983764648438">
+    <span class="caption">NYMUSA</span>
+  </li>
+  <li class="node" data-node-id="14" data-x="35.20997667312622" data-y="-440.8459815979004">
+    <span class="caption"> Hsinchu Institute of Technology</span>
+  </li>
+  <li class="node" data-node-id="15" data-x="390.9194927215576" data-y="-964.0479469299316">
+    <span class="caption">Ministry of Education</span>
+  </li>
+  <li class="node" data-node-id="16" data-x="-1252.4262799518858" data-y="817.3899723146017">
+    <span class="caption">student club-nctu</span>
+  </li>
+  <li class="node" data-node-id="17" data-x="2349.212023572224" data-y="-1476.7424134568475">
+    <span class="caption">common people</span>
+  </li>
+  <li class="node" data-node-id="18" data-x="3116.5949352310913" data-y="-1419.9975350542768">
+    <span class="caption">TWO-School polling agency</span>
+  </li>
+  <li class="node" data-node-id="19" data-x="1435.7004930449693" data-y="877.991383622332">
+    <span class="caption">sutdent club-nthu</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="1"></li>
+  <li class="relationship" data-from="1" data-to="0"></li>
+  <li class="relationship" data-from="2" data-to="4"></li>
+  <li class="relationship" data-from="4" data-to="1"></li>
+  <li class="relationship" data-from="3" data-to="5"></li>
+  <li class="relationship" data-from="5" data-to="0"></li>
+  <li class="relationship" data-from="5" data-to="6"></li>
+  <li class="relationship" data-from="4" data-to="7"></li>
+  <li class="relationship" data-from="2" data-to="8"></li>
+  <li class="relationship" data-from="3" data-to="9"></li>
+  <li class="relationship" data-from="2" data-to="10"></li>
+  <li class="relationship" data-from="3" data-to="11"></li>
+  <li class="relationship" data-from="2" data-to="12">
+    <span class="type">money support</span>
+  </li>
+  <li class="relationship" data-from="12" data-to="13"></li>
+  <li class="relationship" data-from="13" data-to="10">
+    <span class="type">fight for power</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="13">
+    <span class="type">fight for power</span>
+  </li>
+  <li class="relationship" data-from="11" data-to="13">
+    <span class="type">try to unite</span>
+  </li>
+  <li class="relationship" data-from="14" data-to="0">
+    <span class="type">support</span>
+  </li>
+  <li class="relationship" data-from="14" data-to="1">
+    <span class="type">support</span>
+  </li>
+  <li class="relationship" data-from="2" data-to="14">
+    <span class="type">wish?</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="14">
+    <span class="type">wish?</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="11">
+    <span class="type">diss</span>
+  </li>
+  <li class="relationship" data-from="11" data-to="10">
+    <span class="type">week pounch</span>
+  </li>
+  <li class="relationship" data-from="4" data-to="10">
+    <span class="type">support</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="11">
+    <span class="type">heat</span>
+  </li>
+  <li class="relationship" data-from="12" data-to="14">
+    <span class="type">wish</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="3">
+    <span class="type">money</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="12">
+    <span class="type">money</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="2">
+    <span class="type">money</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="14">
+    <span class="type">support</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="1">
+    <span class="type">heat</span>
+  </li>
+  <li class="relationship" data-from="9" data-to="0">
+    <span class="type">heat</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="5">
+    <span class="type">previous support</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="4">
+    <span class="type">previous support</span>
+  </li>
+  <li class="relationship" data-from="4" data-to="16"></li>
+  <li class="relationship" data-from="10" data-to="7">
+    <span class="type">retired cadre</span>
+  </li>
+  <li class="relationship" data-from="7" data-to="10"></li>
+  <li class="relationship" data-from="17" data-to="15">
+    <span class="type">polls</span>
+  </li>
+  <li class="relationship" data-from="18" data-to="17"></li>
+  <li class="relationship" data-from="1" data-to="7">
+    <span class="type">spy</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="6">
+    <span class="type">spy</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="19"></li>
+</ul>
